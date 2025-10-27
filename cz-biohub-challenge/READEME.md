@@ -23,8 +23,7 @@ To run this script, you will need a Python environment with the libraries listed
 
 1.  **Clone this repository (or save the script):**
     ```bash
-    git clone [https://your-repository-here.git](https://your-repository-here.git)
-    cd your-repository-here
+    git clone [https://github.com/bgabiz/cz_biohub_challenge.git](https://github.com/bgabiz/cz_biohub_challenge.git)
     ```
 
 2.  **Create a virtual environment (Recommended):**
